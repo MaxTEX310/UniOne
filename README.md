@@ -6,6 +6,11 @@ The UniOne dataset has been released for the study of the entire process of docu
 
 OneDrive (to be added in the future)
 
+# Update
+
+March 5, 2025: Upload the [supplementary explanation file]([https://example.com](https://github.com/MaxTEX310/UniOne/blob/main/SupplementaryMaterials/UniOne%20Supplementary%20Materials.pdf))  for the Unione dataset
+
+
 # Instructions
 
 Note: The UniOne dataset can only be used for non-commercial research purposes. For scholars or organizations who wish to use the UniOne dataset, please first fill out this application form and send it to us via email (preferably using an institutional email so that we can quickly identify your information) (contact information to be provided). When submitting the application form to us, please list or attach 1-2 publications you have published in the past 5 years to indicate that you (or your team) have conducted research in related fields such as OCR, mathematical expression recognition, document image processing, or visual information extraction. At present, this dataset is only available free of charge to scholars in the aforementioned fields. After receiving your letter, we will quickly verify your information within two weeks and provide you with the download link and decompression password for the dataset.
