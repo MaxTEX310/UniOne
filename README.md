@@ -8,7 +8,7 @@ OneDrive (to be added in the future)
 
 # Update
 
-March 5, 2025: Upload the [supplementary explanation file](https://github.com/MaxTEX310/UniOne/blob/main/SupplementaryMaterials/UniOne%20Supplementary%20Materials.pdf)  for the Unione dataset
+March 5, 2025: Upload the supplementary explanation [file](https://github.com/MaxTEX310/UniOne/blob/main/SupplementaryMaterials/UniOne%20Supplementary%20Materials.pdf)  for the Unione dataset
 
 
 # Instructions
