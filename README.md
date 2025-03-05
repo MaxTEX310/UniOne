@@ -1,10 +1,6 @@
-# UniOne
+# UniOne tip
 
 The papers related to this dataset will be submitted to ICDAR 2025. In order to meet the blind review requirements, the specific contact information will be made public on May 25, 2025.
-
-The UniOne dataset has been released for the study of the entire process of document parsing in modern literature. The sample dataset can be accessed through the following link:
-
-OneDrive (to be added in the future)
 
 # Update
 
