@@ -4,7 +4,7 @@ The papers related to this dataset will be submitted to ICDAR 2025. In order to 
 
 # Update
 
-March 5, 2025: Upload the supplementary explanation [file](https://github.com/MaxTEX310/UniOne/blob/main/SupplementaryMaterials/UniOne%20Supplementary%20Materials.pdf)  for the Unione Dataset
+March 5, 2025: Upload the supplementary explanation [file](https://github.com/MaxTEX310/UniOne/blob/main/UniOne Supplementary Materials.pdf)  for the Unione Dataset
 
 March 5, 2025: Upload an example of the Unione dataset, you can obtain it [here](https://drive.google.com/file/d/1qtyFW03FMDnDGGH-SNXyru378UEI4Wal/view?usp=sharing)
 
