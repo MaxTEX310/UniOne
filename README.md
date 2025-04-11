@@ -8,6 +8,8 @@ March 5, 2025: Upload the supplementary explanation [file](https://github.com/Ma
 
 March 5, 2025: Upload an example of the Unione dataset, you can obtain it [here](https://drive.google.com/file/d/1qtyFW03FMDnDGGH-SNXyru378UEI4Wal/view?usp=sharing)
 
+April 12, 2025: Upload the complete dataset to Baidu Netdisk, and ICDAR will fully open it after recruitment
+
 
 # Instructions
 
